@@ -14,7 +14,7 @@
     "pixelsRounding": true,
     "projectUuid": "448f88e0-1dab-4566-8eb8-6a34045a20c2",
     "scaleMode": "nearest",
-    "sizeOnStartupMode": "adaptWidth",
+    "sizeOnStartupMode": "",
     "templateSlug": "",
     "useExternalSourceFiles": false,
     "version": "1.0.0",
@@ -818,6 +818,781 @@
         "name": "RetroRerun assets\\Technical stuff\\BrickCheck.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Brick3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Brick3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Brick4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Brick4.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "RetroRerun assets/Backgrounds/Hills_front.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "RetroRerun assets\\Backgrounds\\Hills_front.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "RetroRerun assets/Backgrounds/Mountains.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "RetroRerun assets\\Backgrounds\\Mountains.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "RetroRerun assets/Backgrounds/Hills_Back.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "RetroRerun assets\\Backgrounds\\Hills_Back.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "RetroRerun assets/Backgrounds/SkyClouds.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "RetroRerun assets\\Backgrounds\\SkyClouds.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "RetroRerun assets/Backgrounds/Sky.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "RetroRerun assets\\Backgrounds\\Sky.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "file": "RetroRerun assets/Music/menu_theme.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "RetroRerun assets\\Music\\menu_theme.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image12",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image13",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image14",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image15",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image16",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image17",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image18",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image19",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image20",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image21",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image22",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image23",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image24.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image24",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image25.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image25",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image26",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image27",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image28.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image28",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image29.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image29",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image30.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image30",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image31.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image31",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image32.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image32",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image33.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image33",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image34.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image34",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image35.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image35",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image36.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image36",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image37.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image37",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image38.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image38",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image39.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image39",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image40.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image40",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image41.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image41",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image42.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image42",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image43.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image43",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image44.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image44",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image45.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image45",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image46.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image46",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image47.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image47",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image48.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image48",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image49.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image49",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image50.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image50",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image51.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image51",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image52.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image52",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image53.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image53",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image54.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image54",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image55.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image55",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image56.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image56",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image57.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image57",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image58.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image58",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image59.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image59",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image60.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image60",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image61.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image61",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\New image4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image44.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\New image44.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image49.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\New image49.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image59.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\New image59.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image54.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\New image54.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image37.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\New image37.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Palm.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Palm.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "LevelTiles-export.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "LevelTiles-export.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/LevelTiles-export.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "LevelTiles-export",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/LevelTiles-export2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "LevelTiles-export2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/LevelTiles-export3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "LevelTiles-export3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "StartPoint-export.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "StartPoint-export.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/LevelTiles-export2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\LevelTiles-export2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Pipe-export.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pipe-export.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "HammerBro-export.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "HammerBro-export.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite62.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite62",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -859,7 +1634,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 1.4790395861758003,
+        "zoomFactor": 0.8993607583667049,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -873,7 +1648,7 @@
           "name": "Mario",
           "persistentUuid": "1a9d8e5d-3167-432d-9088-00c95403e01a",
           "width": 96,
-          "x": 0,
+          "x": 288,
           "y": 240,
           "zOrder": 1,
           "numberProperties": [],
@@ -887,10 +1662,250 @@
           "layer": "",
           "name": "Ground",
           "persistentUuid": "d8b49a73-7189-4ea0-b476-9326677e3bdd",
-          "width": 640,
-          "x": 0,
+          "width": 1248,
+          "x": -336,
           "y": 304,
           "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "GreenKoopa",
+          "persistentUuid": "79e1c357-e110-41f8-95c1-b556174fc01f",
+          "width": 32,
+          "x": 560,
+          "y": 240,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 736,
+          "layer": "Bakground",
+          "name": "SkyBox",
+          "persistentUuid": "956db761-882f-46d2-9a9c-025c811e27b0",
+          "width": 1248,
+          "x": -336,
+          "y": -336,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 336,
+          "layer": "Bakground",
+          "name": "Clouds",
+          "persistentUuid": "70bb7cfd-856a-49da-b07d-9d1e2334871e",
+          "width": 1248,
+          "x": -336,
+          "y": -96,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 80,
+          "layer": "",
+          "name": "NearMountains",
+          "persistentUuid": "e67a904a-d43c-48ae-8365-a809263aad34",
+          "width": 80,
+          "x": -704,
+          "y": 48,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 512,
+          "layer": "Bakground",
+          "name": "Hills",
+          "persistentUuid": "81de9c45-5e8d-48b4-90f4-09e1e2c737dc",
+          "width": 1248,
+          "x": -336,
+          "y": -112,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 512,
+          "layer": "Bakground",
+          "name": "FarMountains",
+          "persistentUuid": "9fe31726-ed01-4f05-b393-8bd12a2b888d",
+          "width": 1248,
+          "x": -336,
+          "y": -112,
+          "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "name": "Brick",
+          "persistentUuid": "0ee58f14-8f7c-4fd1-aaa0-d52c5113a7fc",
+          "width": 32,
+          "x": 64,
+          "y": 192,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "name": "QMBlock",
+          "persistentUuid": "7a92838a-c474-43a5-9d9d-12263e1aba9c",
+          "width": 32,
+          "x": 192,
+          "y": 192,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 512,
+          "layer": "Bakground",
+          "name": "NearMountains",
+          "persistentUuid": "6bb973c6-ccf0-4309-a8cd-7042706f898b",
+          "width": 1248,
+          "x": -336,
+          "y": -112,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "goright",
+          "persistentUuid": "aa8a8945-413b-4d5f-a1c5-6a5c2fbbb804",
+          "width": 0,
+          "x": -400,
+          "y": 240,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "goleft",
+          "persistentUuid": "7da7d9d6-379c-43ba-bea7-73d8cb9cefcd",
+          "width": 0,
+          "x": 912,
+          "y": 240,
+          "zOrder": 22,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "name": "Brick",
+          "persistentUuid": "11f8b062-e8d9-427b-b33e-f1c652dde233",
+          "width": 32,
+          "x": 128,
+          "y": 192,
+          "zOrder": 23,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "name": "Brick",
+          "persistentUuid": "3ece0682-4bb4-43e2-b42e-463d32ef04ce",
+          "width": 32,
+          "x": 96,
+          "y": 192,
+          "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 320,
+          "layer": "",
+          "name": "Ground",
+          "persistentUuid": "8a7b8099-9b29-448d-9bbc-8e7b4b503e8c",
+          "width": 32,
+          "x": -368,
+          "y": 80,
+          "zOrder": 25,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 320,
+          "layer": "",
+          "name": "Ground",
+          "persistentUuid": "7e493b54-0287-4f95-9b7e-bce8d7bc6885",
+          "width": 32,
+          "x": 912,
+          "y": 80,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "name": "Brick",
+          "persistentUuid": "49df7c78-b461-46b1-8e0a-ff2283fc8b4e",
+          "width": 32,
+          "x": 160,
+          "y": 192,
+          "zOrder": 27,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -903,7 +1918,20 @@
           "tags": "Players",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "folded": true,
+              "name": "dirForKoopa",
+              "type": "string",
+              "value": ""
+            },
+            {
+              "folded": true,
+              "name": "state",
+              "type": "string",
+              "value": ""
+            }
+          ],
           "effects": [],
           "behaviors": [
             {
@@ -913,20 +1941,8 @@
               "PlatformerConfigurationStack": "PlatformerConfigurationStack",
               "DiveMaxFallingSpeed": 500,
               "DiveInitialFallingSpeed": 400,
-              "DiveGravity": 4000,
+              "DiveGravity": 2000,
               "IsDiving": false
-            },
-            {
-              "name": "PlatformerCharacterAnimator",
-              "type": "PlatformerCharacterAnimator::PlatformerCharacterAnimator",
-              "EnableAnimationChanges": true,
-              "EnableHorizontalFlipping": true,
-              "IdleAnimationName": "Idle",
-              "RunAnimationName": "Walking",
-              "JumpAnimationName": "Jumping",
-              "FallAnimationName": "Falling",
-              "ClimbAnimationName": "Climbing",
-              "PlatformerBehavior": "PlatformerObject"
             },
             {
               "name": "PlatformerConfigurationStack",
@@ -934,6 +1950,8 @@
               "PlatformerCharacter": "PlatformerObject"
             },
             {
+              "jumpSpeed": 300,
+              "maxFallingSpeed": 400,
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
               "acceleration": 300,
@@ -941,9 +1959,7 @@
               "canGoDownFromJumpthru": false,
               "deceleration": 500,
               "gravity": 200,
-              "jumpSpeed": 100,
               "jumpSustainTime": 0.4,
-              "maxFallingSpeed": 200,
               "canGrabWithoutMoving": true,
               "canGrabPlatforms": false,
               "ignoreDefaultControls": false,
@@ -1041,7 +2057,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\Idle.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -1089,7 +2111,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\Walking.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -1125,7 +2153,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\Walking1.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -1161,7 +2195,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\Walking2.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -1197,7 +2237,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\Walking4.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -1233,7 +2279,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\Walking3.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -1269,7 +2321,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\Walking4.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -1305,7 +2363,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\Walking5.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -1353,7 +2417,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\Running.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -1389,7 +2459,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\Running2.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -1425,7 +2501,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\Running3.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -1461,7 +2543,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\Running4.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -1509,7 +2597,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\Jump1.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -1545,7 +2639,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\Jump2.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -1593,7 +2693,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\Fall.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -1641,7 +2747,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\RunJump.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -1689,7 +2801,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\Crouch1.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -1725,7 +2843,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\Crouch2.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -1773,7 +2897,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\Climb1.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -1809,7 +2939,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\Climb.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -1845,7 +2981,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\Climb2.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -1881,7 +3023,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\Climb.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -1929,7 +3077,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\Swim1.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -1965,7 +3119,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\Swim2.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -2001,7 +3161,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\Swim3.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -2037,7 +3203,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\Swim4.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -2073,7 +3245,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\Swim5.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -2109,7 +3287,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\Swim6.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -2157,7 +3341,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\TurnAround.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -2205,7 +3395,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\Hold.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -2253,7 +3449,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\GroundPound.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -2302,7 +3504,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\WalkHold.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -2338,7 +3546,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\WalkHold1.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -2374,7 +3588,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\WalkHold2.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -2410,7 +3630,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\WalkHold3.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -2446,7 +3672,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\WalkHold2.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -2494,7 +3726,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "RetroRerun assets\\Players\\PowerlessMario\\WalkHold.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Opener",
+                          "x": 24,
+                          "y": 9
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -3092,7 +4330,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets\\Q.M. block.png",
+                      "image": "assets\\Brick3.png",
                       "points": [
                         {
                           "name": "BottomCheck",
@@ -3127,14 +4365,8 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "block-export.png",
-                      "points": [
-                        {
-                          "name": "BottomCheck",
-                          "x": 10,
-                          "y": 60
-                        }
-                      ],
+                      "image": "assets\\Brick4.png",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -3497,64 +4729,18 @@
           "particleLifeTimeMin": 1.5,
           "particleRed1": 255,
           "particleRed2": 255,
-          "particleSize1": 500,
-          "particleSize2": 400,
+          "particleSize1": 150,
+          "particleSize2": 140,
           "particleSizeRandomness1": 0,
           "particleSizeRandomness2": 0,
-          "rendererParam1": 1,
-          "rendererParam2": 1,
+          "rendererParam1": 0.5,
+          "rendererParam2": 0.5,
           "rendererType": "Quad",
           "tags": "Particles, TechnicalStuff",
           "tank": 4,
           "textureParticleName": "particles.png",
           "type": "ParticleSystem::ParticleEmitter",
           "zoneRadius": 6,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "additive": false,
-          "assetStoreId": "",
-          "destroyWhenNoParticles": true,
-          "emitterAngleA": 0,
-          "emitterAngleB": 360,
-          "emitterForceMax": 100,
-          "emitterForceMin": 100,
-          "flow": 45,
-          "jumpForwardInTimeOnCreation": 0,
-          "maxParticleNb": 300,
-          "name": "CoinCollected",
-          "particleAlpha1": 255,
-          "particleAlpha2": 0,
-          "particleAlphaRandomness1": 0,
-          "particleAlphaRandomness2": 0,
-          "particleAngle1": 0,
-          "particleAngle2": 360,
-          "particleAngleRandomness1": 0,
-          "particleAngleRandomness2": 0,
-          "particleBlue1": 255,
-          "particleBlue2": 255,
-          "particleGravityX": 0,
-          "particleGravityY": 0,
-          "particleGreen1": 255,
-          "particleGreen2": 255,
-          "particleLifeTimeMax": 1.2,
-          "particleLifeTimeMin": 0.6,
-          "particleRed1": 255,
-          "particleRed2": 255,
-          "particleSize1": 100,
-          "particleSize2": 20,
-          "particleSizeRandomness1": 0,
-          "particleSizeRandomness2": 0,
-          "rendererParam1": 3,
-          "rendererParam2": 1,
-          "rendererType": "Quad",
-          "tags": "",
-          "tank": 6,
-          "textureParticleName": "cling-export.png",
-          "type": "ParticleSystem::ParticleEmitter",
-          "zoneRadius": 3,
           "variables": [],
           "effects": [],
           "behaviors": []
@@ -3681,8 +4867,8 @@
           "particleLifeTimeMin": 3,
           "particleRed1": 255,
           "particleRed2": 255,
-          "particleSize1": 100,
-          "particleSize2": 100,
+          "particleSize1": 200,
+          "particleSize2": 200,
           "particleSizeRandomness1": 0,
           "particleSizeRandomness2": 0,
           "rendererParam1": 3,
@@ -3690,7 +4876,7 @@
           "rendererType": "Quad",
           "tags": "",
           "tank": 1,
-          "textureParticleName": "assets\\NewSprite221.png",
+          "textureParticleName": "RetroRerun assets\\Enemies\\Walking18.png",
           "type": "ParticleSystem::ParticleEmitter",
           "zoneRadius": 3,
           "variables": [],
@@ -3702,7 +4888,7 @@
           "height": 80,
           "name": "NearMountains",
           "tags": "",
-          "texture": "Hills_front-export.png",
+          "texture": "RetroRerun assets\\Backgrounds\\Hills_front.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 80,
           "variables": [],
@@ -3711,36 +4897,36 @@
         },
         {
           "assetStoreId": "",
-          "height": 128,
+          "height": 512,
           "name": "Hills",
           "tags": "",
-          "texture": "Mountains-export.png",
+          "texture": "RetroRerun assets\\Backgrounds\\Mountains.png",
           "type": "TiledSpriteObject::TiledSprite",
-          "width": 128,
+          "width": 512,
           "variables": [],
           "effects": [],
           "behaviors": []
         },
         {
           "assetStoreId": "",
-          "height": 80,
+          "height": 512,
           "name": "FarMountains",
           "tags": "",
-          "texture": "Hills_Back-export.png",
+          "texture": "RetroRerun assets\\Backgrounds\\Hills_Back.png",
           "type": "TiledSpriteObject::TiledSprite",
-          "width": 80,
+          "width": 512,
           "variables": [],
           "effects": [],
           "behaviors": []
         },
         {
           "assetStoreId": "",
-          "height": 80,
+          "height": 512,
           "name": "Clouds",
           "tags": "",
-          "texture": "Clouds-export.png",
+          "texture": "RetroRerun assets\\Backgrounds\\SkyClouds.png",
           "type": "TiledSpriteObject::TiledSprite",
-          "width": 80,
+          "width": 512,
           "variables": [],
           "effects": [],
           "behaviors": []
@@ -3750,54 +4936,12 @@
           "height": 80,
           "name": "SkyBox",
           "tags": "",
-          "texture": "Sky-export.png",
+          "texture": "RetroRerun assets\\Backgrounds\\Sky.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 80,
           "variables": [],
           "effects": [],
           "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "name": "BreakCheck",
-          "tags": "TechnicalStuff",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "NewSprite",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "RetroRerun assets\\Technical stuff\\BrickCheck.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
         },
         {
           "assetStoreId": "",
@@ -3863,48 +5007,6 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "RetroRerun assets\\Technical stuff\\GoLeft.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "QMBlockCheck",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "NewSprite10",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "NewSprite103",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4227,12 +5329,12 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "folded": true,
               "name": "Mario",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
               "events": [
                 {
+                  "folded": true,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -4271,18 +5373,6 @@
                           },
                           "parameters": [
                             "Coin",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Create"
-                          },
-                          "parameters": [
-                            "",
-                            "CoinCollected",
-                            "Coin.PointX(\"Center\")",
-                            "Coin.PointY(\"Center\")",
                             ""
                           ]
                         }
@@ -4367,7 +5457,7 @@
                         "Mario",
                         "\"SpeedUp\"",
                         "<",
-                        "2"
+                        "1"
                       ]
                     }
                   ],
@@ -4380,7 +5470,7 @@
                         "Mario",
                         "PlatformerObject",
                         "=",
-                        "80+Mario.ObjectTimerElapsedTime(\"SpeedUp\")*40"
+                        "150+Mario.ObjectTimerElapsedTime(\"SpeedUp\")*300"
                       ]
                     }
                   ]
@@ -4396,7 +5486,7 @@
                         "Mario",
                         "\"SpeedUp\"",
                         ">=",
-                        "2"
+                        "1"
                       ]
                     }
                   ],
@@ -4409,7 +5499,7 @@
                         "Mario",
                         "PlatformerObject",
                         "=",
-                        "150"
+                        "300"
                       ]
                     }
                   ]
@@ -4436,202 +5526,72 @@
                         "Mario",
                         "PlatformerObject",
                         "=",
-                        "70"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
-                      },
-                      "parameters": [
-                        "Mario",
-                        "PlatformerObject"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::IsOnFloor"
-                      },
-                      "parameters": [
-                        "Mario",
-                        "PlatformerObject"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::MaxSpeed"
-                      },
-                      "parameters": [
-                        "Mario",
-                        "PlatformerObject",
-                        "=",
-                        "70"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ObjectTimerPaused"
-                      },
-                      "parameters": [
-                        "Mario",
-                        "\"SpeedUp\""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetAnimationName"
-                      },
-                      "parameters": [
-                        "Mario",
-                        "\"Walking\""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
-                      },
-                      "parameters": [
-                        "Mario",
-                        "PlatformerObject"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::IsOnFloor"
-                      },
-                      "parameters": [
-                        "Mario",
-                        "PlatformerObject"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::MaxSpeed"
-                      },
-                      "parameters": [
-                        "Mario",
-                        "PlatformerObject",
-                        "=",
                         "150"
                       ]
-                    },
-                    {
-                      "type": {
-                        "value": "CompareObjectTimer"
-                      },
-                      "parameters": [
-                        "Mario",
-                        "\"SpeedUp\"",
-                        ">=",
-                        "2"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetAnimationName"
-                      },
-                      "parameters": [
-                        "Mario",
-                        "\"Running\""
-                      ]
                     }
                   ]
                 },
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
+                  "type": "BuiltinCommonInstructions::ForEach",
+                  "object": "Brick",
                   "conditions": [
                     {
                       "type": {
-                        "value": "CollisionNP"
+                        "value": "PlatformBehavior::IsJumping"
                       },
                       "parameters": [
                         "Mario",
+                        "PlatformerObject"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "CollisionPoint"
+                      },
+                      "parameters": [
                         "Brick",
+                        "Mario.PointX(\"Opener\")",
+                        "Mario.PointY(\"Opener\")"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
                         "",
-                        "",
+                        "BreakingParticle",
+                        "Brick.CenterX()",
+                        "Brick.CenterY()",
                         ""
                       ]
                     },
                     {
                       "type": {
-                        "value": "CollisionNP"
+                        "value": "ParticleSystem::EmitterAngle"
                       },
                       "parameters": [
-                        "Mario",
-                        "BreakCheck",
-                        "",
-                        "",
-                        ""
+                        "BreakingParticle",
+                        "=",
+                        "270"
                       ]
-                    }
-                  ],
-                  "actions": [],
-                  "events": [
+                    },
                     {
-                      "type": "BuiltinCommonInstructions::ForEach",
-                      "object": "Brick",
-                      "conditions": [],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "Create"
-                          },
-                          "parameters": [
-                            "",
-                            "BreakingParticle",
-                            "Brick.CenterX()",
-                            "Brick.CenterY()",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "ParticleSystem::EmitterAngle"
-                          },
-                          "parameters": [
-                            "BreakingParticle",
-                            "=",
-                            "270"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Delete"
-                          },
-                          "parameters": [
-                            "Brick",
-                            "Brick"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Delete"
-                          },
-                          "parameters": [
-                            "BreakCheck",
-                            ""
-                          ]
-                        }
+                      "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "Brick",
+                        "Brick"
                       ]
                     }
                   ]
                 },
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
+                  "type": "BuiltinCommonInstructions::ForEach",
+                  "object": "Brick",
                   "conditions": [
                     {
                       "type": {
@@ -4656,53 +5616,116 @@
                       ]
                     }
                   ],
-                  "actions": [],
-                  "events": [
+                  "actions": [
                     {
-                      "type": "BuiltinCommonInstructions::ForEach",
-                      "object": "Brick",
-                      "conditions": [],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "Create"
-                          },
-                          "parameters": [
-                            "",
-                            "BreakingParticle",
-                            "Brick.CenterX()",
-                            "Brick.CenterY()",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "ParticleSystem::EmitterAngle"
-                          },
-                          "parameters": [
-                            "BreakingParticle",
-                            "=",
-                            "270"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Delete"
-                          },
-                          "parameters": [
-                            "Brick",
-                            "Brick"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Delete"
-                          },
-                          "parameters": [
-                            "BreakCheck",
-                            ""
-                          ]
-                        }
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "BreakingParticle",
+                        "Brick.CenterX()",
+                        "Brick.CenterY()",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ParticleSystem::EmitterAngle"
+                      },
+                      "parameters": [
+                        "BreakingParticle",
+                        "=",
+                        "270"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "Brick",
+                        "Brick"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "QMBlock",
+                        "\"Active\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::IsJumping"
+                      },
+                      "parameters": [
+                        "Mario",
+                        "PlatformerObject"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "CollisionPoint"
+                      },
+                      "parameters": [
+                        "QMBlock",
+                        "Mario.PointX(\"Opener\")",
+                        "Mario.PointY(\"Opener\")"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "QMBlock",
+                        "\"Inactive\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectPositionYTween"
+                      },
+                      "parameters": [
+                        "QMBlock",
+                        "Tween",
+                        "\"BounceUp\"",
+                        "QMBlock.Y()-5",
+                        "\"bounce\"",
+                        "100",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "0.1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectPositionYTween"
+                      },
+                      "parameters": [
+                        "QMBlock",
+                        "Tween",
+                        "\"BounceBack\"",
+                        "QMBlock.Y()+5",
+                        "\"linear\"",
+                        "100",
+                        ""
                       ]
                     }
                   ]
@@ -4724,23 +5747,21 @@
                     },
                     {
                       "type": {
-                        "value": "CollisionNP"
-                      },
-                      "parameters": [
-                        "Mario",
-                        "QMBlockCheck",
-                        "",
-                        "",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
                         "value": "AnimationName"
                       },
                       "parameters": [
                         "QMBlock",
                         "\"Active\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AdvancedJump::DiveDash::IsDiving"
+                      },
+                      "parameters": [
+                        "Mario",
+                        "DiveDash",
+                        ""
                       ]
                     }
                   ],
@@ -4891,7 +5912,7 @@
                         "Mario",
                         "PlatformerObject",
                         "=",
-                        "200"
+                        "300"
                       ]
                     }
                   ]
@@ -4935,6 +5956,260 @@
                         "100",
                         "100",
                         ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Left"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ModVarObjetTxt"
+                      },
+                      "parameters": [
+                        "Mario",
+                        "dirForKoopa",
+                        "=",
+                        "\"left\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "FlipX"
+                      },
+                      "parameters": [
+                        "Mario",
+                        "yes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Right"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ModVarObjetTxt"
+                      },
+                      "parameters": [
+                        "Mario",
+                        "dirForKoopa",
+                        "=",
+                        "\"right\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "FlipX"
+                      },
+                      "parameters": [
+                        "Mario",
+                        "no"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "anims",
+                  "comment2": ""
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::IsJumping"
+                      },
+                      "parameters": [
+                        "Mario",
+                        "PlatformerObject"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "PlatformBehavior::IsOnFloor"
+                      },
+                      "parameters": [
+                        "Mario",
+                        "PlatformerObject"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Mario",
+                        "Mario.VariableString(state) + \"Jumping\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::IsFalling"
+                      },
+                      "parameters": [
+                        "Mario",
+                        "PlatformerObject"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "PlatformBehavior::IsOnFloor"
+                      },
+                      "parameters": [
+                        "Mario",
+                        "PlatformerObject"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Mario",
+                        "Mario.VariableString(state) + \"Falling\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::IsOnFloor"
+                      },
+                      "parameters": [
+                        "Mario",
+                        "PlatformerObject"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+                      },
+                      "parameters": [
+                        "Mario",
+                        "PlatformerObject"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "PlatformBehavior::IsJumping"
+                      },
+                      "parameters": [
+                        "Mario",
+                        "PlatformerObject"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Mario",
+                        "Mario.VariableString(state) + \"Idle\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::IsOnFloor"
+                      },
+                      "parameters": [
+                        "Mario",
+                        "PlatformerObject"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+                      },
+                      "parameters": [
+                        "Mario",
+                        "PlatformerObject"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "PlatformBehavior::IsJumping"
+                      },
+                      "parameters": [
+                        "Mario",
+                        "PlatformerObject"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "PlatformBehavior::IsFalling"
+                      },
+                      "parameters": [
+                        "Mario",
+                        "PlatformerObject"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Mario",
+                        "Mario.VariableString(state) + \"Walking\""
                       ]
                     }
                   ]
@@ -5200,6 +6475,7 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
+                  "folded": true,
                   "name": "Koopa Troopa",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -5557,12 +6833,13 @@
                           "conditions": [
                             {
                               "type": {
-                                "value": "CenterX"
+                                "value": "VarObjetTxt"
                               },
                               "parameters": [
                                 "Mario",
-                                "<",
-                                "GreenKoopa.X()"
+                                "dirForKoopa",
+                                "=",
+                                "\"right\""
                               ]
                             }
                           ],
@@ -5594,12 +6871,13 @@
                           "conditions": [
                             {
                               "type": {
-                                "value": "CenterX"
+                                "value": "VarObjetTxt"
                               },
                               "parameters": [
                                 "Mario",
-                                ">",
-                                "GreenKoopa.X()"
+                                "dirForKoopa",
+                                "=",
+                                "\"left\""
                               ]
                             }
                           ],
@@ -5895,55 +7173,13 @@
               "type": "BuiltinCommonInstructions::ForEach",
               "object": "Brick",
               "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Create"
-                  },
-                  "parameters": [
-                    "",
-                    "BreakCheck",
-                    "Brick.PointX(\"BottomCheck\")",
-                    "Brick.PointY(\"BottomCheck\")",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Cache"
-                  },
-                  "parameters": [
-                    "BreakCheck"
-                  ]
-                }
-              ]
+              "actions": []
             },
             {
               "type": "BuiltinCommonInstructions::ForEach",
               "object": "QMBlock",
               "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Create"
-                  },
-                  "parameters": [
-                    "",
-                    "QMBlockCheck",
-                    "QMBlock.PointX(\"BottomCheck\")",
-                    "QMBlock.PointY(\"BottomCheck\")",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Cache"
-                  },
-                  "parameters": [
-                    "QMBlockCheck"
-                  ]
-                }
-              ]
+              "actions": []
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -5999,23 +7235,47 @@
           "conditions": [
             {
               "type": {
-                "value": "BuiltinCommonInstructions::Once"
+                "value": "DepartScene"
               },
-              "parameters": []
+              "parameters": [
+                ""
+              ]
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "ModVarObjetTxt"
+              },
+              "parameters": [
+                "Mario",
+                "dirForKoopa",
+                "=",
+                "\"\""
+              ]
+            },
             {
               "type": {
                 "value": "PlayMusicCanal"
               },
               "parameters": [
                 "",
-                "menu_theme.mp3",
+                "RetroRerun assets\\Music\\menu_theme.mp3",
                 "1",
                 "yes",
                 "",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarObjetTxt"
+              },
+              "parameters": [
+                "Mario",
+                "state",
+                "=",
+                "\"\""
               ]
             }
           ]
@@ -6077,10 +7337,6 @@
           "type": "PlatformBehavior::PlatformBehavior"
         },
         {
-          "name": "PlatformerCharacterAnimator",
-          "type": "PlatformerCharacterAnimator::PlatformerCharacterAnimator"
-        },
-        {
           "name": "PlatformerConfigurationStack",
           "type": "AdvancedJump::PlatformerConfigurationStack"
         },
@@ -6101,6 +7357,708 @@
           "type": "AdvancedJump::WallJump"
         }
       ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "WorldMap",
+      "name": "WorldMap",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": true,
+        "gridType": "rectangular",
+        "gridWidth": 16,
+        "gridHeight": 16,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": true,
+        "zoomFactor": 1.9868866996519177,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 176,
+          "layer": "",
+          "name": "Grass",
+          "persistentUuid": "e0233b56-4fd3-45b8-b6bb-0f8867a18e14",
+          "width": 640,
+          "x": 0,
+          "y": 96,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "Sky",
+          "persistentUuid": "c61e5445-0ad6-4d07-ab5a-8cb9b4efcee7",
+          "width": 640,
+          "x": 0,
+          "y": 0,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "name": "GrassBottom",
+          "persistentUuid": "01a40a02-4ef5-47a2-b214-98a8e7de53b4",
+          "width": 640,
+          "x": 0,
+          "y": 272,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "name": "GrassBottomWater",
+          "persistentUuid": "5d0627b1-e756-4969-95e9-5d54fc973b6d",
+          "width": 640,
+          "x": 0,
+          "y": 336,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "name": "GrassTile",
+          "persistentUuid": "630fbb60-ac48-40b5-8ead-9f9a6339c43e",
+          "width": 640,
+          "x": 0,
+          "y": 304,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "name": "GrassSkyTop",
+          "persistentUuid": "4b2936d3-9a48-4d06-94d1-c329d18bc4cf",
+          "width": 640,
+          "x": 0,
+          "y": 64,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "name": "Water",
+          "persistentUuid": "4a972aaf-0624-4810-b61d-4d441868e3b8",
+          "width": 640,
+          "x": 0,
+          "y": 368,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 60,
+          "layer": "",
+          "name": "PalmTree",
+          "persistentUuid": "1b7b11fd-d9e3-4c1f-a463-003e7d457f76",
+          "width": 56,
+          "x": 304,
+          "y": 52,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 60,
+          "layer": "",
+          "name": "PalmTree",
+          "persistentUuid": "2ec70a79-dd90-463f-9523-1fd068ddf8c0",
+          "width": 56,
+          "x": 440,
+          "y": 80,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 60,
+          "layer": "",
+          "name": "PalmTree",
+          "persistentUuid": "a8add756-ce9b-4964-a0cd-caaf9e9599c1",
+          "width": 56,
+          "x": 560,
+          "y": 48,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 60,
+          "layer": "",
+          "name": "PalmTree",
+          "persistentUuid": "6fce2f89-e20e-47df-853d-8f622674439d",
+          "width": 56,
+          "x": 160,
+          "y": 80,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 60,
+          "layer": "",
+          "name": "PalmTree",
+          "persistentUuid": "cb5ce6ce-9f38-48f7-9e44-4e2b05a7259e",
+          "width": 56,
+          "x": 40,
+          "y": 52,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "NewSprite2",
+          "persistentUuid": "83684818-64f3-46ec-aa18-6db3b8be3a0e",
+          "width": 0,
+          "x": 16,
+          "y": 152,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "NewSprite",
+          "persistentUuid": "9a9d8d1a-2b75-4031-8376-1297fa1b9e65",
+          "width": 0,
+          "x": 168,
+          "y": 190,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "NewSprite",
+          "persistentUuid": "2346f6ae-ef1b-487f-866a-714150dba66b",
+          "width": 0,
+          "x": 312,
+          "y": 128,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "NewSprite",
+          "persistentUuid": "e4648b32-1be3-4486-a5cf-f45db5dbba45",
+          "width": 0,
+          "x": 528,
+          "y": 192,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "NewSprite3",
+          "persistentUuid": "0d5fa58a-37e3-4ad3-82db-6c6346a257e7",
+          "width": 0,
+          "x": 508,
+          "y": 68,
+          "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 60,
+          "layer": "",
+          "name": "PalmTree",
+          "persistentUuid": "4b964166-0980-4849-a485-d890de47f277",
+          "width": 56,
+          "x": 264,
+          "y": 68,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 60,
+          "layer": "",
+          "name": "PalmTree",
+          "persistentUuid": "737a35c2-d06c-498f-abce-61e25910375f",
+          "width": 56,
+          "x": 344,
+          "y": 68,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 34,
+          "layer": "",
+          "name": "NewSprite4",
+          "persistentUuid": "f33e707b-fd1e-4f4f-a8a9-719d9ac6cd25",
+          "width": 32,
+          "x": 400,
+          "y": 224,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "NewSprite5",
+          "persistentUuid": "91a0b979-9a45-4cad-a828-b3d7910278c3",
+          "width": 0,
+          "x": 224,
+          "y": 112,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Sky",
+          "tags": "",
+          "texture": "New image",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "GrassSkyTop",
+          "tags": "",
+          "texture": "assets\\New image37.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Grass",
+          "tags": "",
+          "texture": "assets\\New image44.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "GrassBottom",
+          "tags": "",
+          "texture": "assets\\New image49.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "GrassTile",
+          "tags": "",
+          "texture": "assets\\New image54.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Water",
+          "tags": "",
+          "texture": "assets\\New image4.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "GrassBottomWater",
+          "tags": "",
+          "texture": "assets\\New image59.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "name": "PalmTree",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Palm.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewSprite",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "LevelTiles-export",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\LevelTiles-export2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewSprite2",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "StartPoint-export.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewSprite3",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Pipe-export.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewSprite4",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "RetroRerun assets\\Enemies\\Goomba.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewSprite5",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "HammerBro-export.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "events": [],
+      "layers": [
+        {
+          "ambientLightColorB": 12920536,
+          "ambientLightColorG": 150995054,
+          "ambientLightColorR": 1869182049,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": []
     }
   ],
   "externalEvents": [],
