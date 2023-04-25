@@ -2094,7 +2094,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 1.6337626779315884,
+        "zoomFactor": 2.060679135269633,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -2471,16 +2471,16 @@
               "PlatformerCharacter": "PlatformerObject"
             },
             {
+              "gravity": 500,
+              "jumpSpeed": 400,
+              "jumpSustainTime": 0.5,
+              "maxFallingSpeed": 600,
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
-              "gravity": 250,
-              "jumpSpeed": 300,
-              "maxFallingSpeed": 400,
               "acceleration": 300,
               "maxSpeed": 70,
               "canGoDownFromJumpthru": false,
               "deceleration": 500,
-              "jumpSustainTime": 0.4,
               "canGrabWithoutMoving": true,
               "canGrabPlatforms": false,
               "ignoreDefaultControls": false,
@@ -6933,6 +6933,31 @@
                   ]
                 },
                 {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyReleased"
+                      },
+                      "parameters": [
+                        "",
+                        "Space"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::PlatformerObjectBehavior::AbortJump"
+                      },
+                      "parameters": [
+                        "Mario",
+                        "PlatformerObject"
+                      ]
+                    }
+                  ]
+                },
+                {
                   "type": "BuiltinCommonInstructions::Comment",
                   "color": {
                     "b": 109,
@@ -7130,6 +7155,50 @@
                       "parameters": [
                         "Mario",
                         "Mario.VariableString(state) + \"Walking\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::IsOnFloor"
+                      },
+                      "parameters": [
+                        "Mario",
+                        "PlatformerObject"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+                      },
+                      "parameters": [
+                        "Mario",
+                        "PlatformerObject"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Down"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Mario",
+                        "Mario.VariableString(state) + \"Crouch\""
                       ]
                     }
                   ]
