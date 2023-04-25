@@ -398,51 +398,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Walking.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Walking",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Walking2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Walking2",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Walking3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Walking3",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Walking4.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Walking4",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Walking5.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Walking5",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
         "file": "RetroRerun assets/Enemies/Goomba.png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"RetroRerun assets/Enemies/Goomba.png\",\"extension\":\".png\"}",
@@ -494,132 +449,6 @@
         "name": "RetroRerun assets\\Tilesets\\Ground.png",
         "smoothed": false,
         "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Walking6.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Walking6",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Walking7.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Walking7",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Walking8.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Walking8",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Walking9.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Walking9",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Walking10.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Walking10",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Walking11.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Walking11",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Walking12.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Walking12",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Walking13.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Walking13",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Walking14.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Walking14",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Walking15.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Walking15",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Walking16.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Walking16",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Walking17.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Walking17",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Walking18.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Walking18",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Walking19.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Walking19",
-        "smoothed": false,
-        "userAdded": false
       },
       {
         "alwaysLoaded": false,
@@ -1593,6 +1422,447 @@
         "name": "NewSprite62",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "RetroRerun assets/PowerUps/yoshi_idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "RetroRerun assets\\PowerUps\\yoshi_idle.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "RetroRerun assets/PowerUps/yoshi_ride_idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "RetroRerun assets\\PowerUps\\yoshi_ride_idle.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "RetroRerun assets/PowerUps/yoshi_ride_walk.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "RetroRerun assets\\PowerUps\\yoshi_ride_walk.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "RetroRerun assets/PowerUps/yoshi_ride_jump.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "RetroRerun assets\\PowerUps\\yoshi_ride_jump.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "RetroRerun assets/PowerUps/yoshi_ride_eat.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "RetroRerun assets\\PowerUps\\yoshi_ride_eat.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "RetroRerun assets/PowerUps/yoshi_ride_eat1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "RetroRerun assets\\PowerUps\\yoshi_ride_eat1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "RetroRerun assets/PowerUps/yoshi_ride_eat2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "RetroRerun assets\\PowerUps\\yoshi_ride_eat2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "RetroRerun assets/PowerUps/yoshi_ride_eat3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "RetroRerun assets\\PowerUps\\yoshi_ride_eat3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "RetroRerun assets/PowerUps/yoshi_ride_eat4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "RetroRerun assets\\PowerUps\\yoshi_ride_eat4.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "RetroRerun assets/Items/Coins.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "RetroRerun assets\\Items\\Coins.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Coin",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Coin2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Coin3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Coin4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Coin5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Coin6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Coin7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Coin8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Coin9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Coin10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Coin11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Coin12",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Coin13",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Coin14",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Coin15",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Coin16",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Coin.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Coin3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Coin5.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Coin7.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Coin9.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Coin11.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Coin13.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Coin15.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Coin17",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Coin18",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Coin19",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Coin20",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "RexStompedWalk.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "RexStompedWalk.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/RexStompedWalk.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "RexStompedWalk",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/RexStompedWalk2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "RexStompedWalk2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "RetroRerun assets/Backgrounds/Hills_front-export.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "RetroRerun assets\\Backgrounds\\Hills_front-export.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "RetroRerun assets/Backgrounds/Mountains-export.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "RetroRerun assets\\Backgrounds\\Mountains-export.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "RetroRerun assets/Backgrounds/Hills_Back-export.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "RetroRerun assets\\Backgrounds\\Hills_Back-export.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "RetroRerun assets/Backgrounds/SkyClouds-export.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "RetroRerun assets\\Backgrounds\\SkyClouds-export.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "RetroRerun assets/Backgrounds/Sky-export.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "RetroRerun assets\\Backgrounds\\Sky-export.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "DeadRex.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "DeadRex.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1634,7 +1904,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.8993607583667049,
+        "zoomFactor": 1.7458023987468696,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -1673,96 +1943,6 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 64,
-          "layer": "",
-          "name": "GreenKoopa",
-          "persistentUuid": "79e1c357-e110-41f8-95c1-b556174fc01f",
-          "width": 32,
-          "x": 560,
-          "y": 240,
-          "zOrder": 7,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 736,
-          "layer": "Bakground",
-          "name": "SkyBox",
-          "persistentUuid": "956db761-882f-46d2-9a9c-025c811e27b0",
-          "width": 1248,
-          "x": -336,
-          "y": -336,
-          "zOrder": 8,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 336,
-          "layer": "Bakground",
-          "name": "Clouds",
-          "persistentUuid": "70bb7cfd-856a-49da-b07d-9d1e2334871e",
-          "width": 1248,
-          "x": -336,
-          "y": -96,
-          "zOrder": 13,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 80,
-          "layer": "",
-          "name": "NearMountains",
-          "persistentUuid": "e67a904a-d43c-48ae-8365-a809263aad34",
-          "width": 80,
-          "x": -704,
-          "y": 48,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 512,
-          "layer": "Bakground",
-          "name": "Hills",
-          "persistentUuid": "81de9c45-5e8d-48b4-90f4-09e1e2c737dc",
-          "width": 1248,
-          "x": -336,
-          "y": -112,
-          "zOrder": 15,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 512,
-          "layer": "Bakground",
-          "name": "FarMountains",
-          "persistentUuid": "9fe31726-ed01-4f05-b393-8bd12a2b888d",
-          "width": 1248,
-          "x": -336,
-          "y": -112,
-          "zOrder": 14,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "height": 32,
           "layer": "",
           "name": "Brick",
@@ -1786,21 +1966,6 @@
           "x": 192,
           "y": 192,
           "zOrder": 19,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 512,
-          "layer": "Bakground",
-          "name": "NearMountains",
-          "persistentUuid": "6bb973c6-ccf0-4309-a8cd-7042706f898b",
-          "width": 1248,
-          "x": -336,
-          "y": -112,
-          "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1909,6 +2074,111 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "name": "Coin",
+          "persistentUuid": "d1063d6e-eca7-4381-b747-3fa3bf0d6f6b",
+          "width": 32,
+          "x": 160,
+          "y": 160,
+          "zOrder": 28,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 608,
+          "layer": "Bakground",
+          "name": "SkyBox",
+          "persistentUuid": "994bf287-a031-45b4-8dd9-559fbcea3203",
+          "width": 1248,
+          "x": -336,
+          "y": -208,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 512,
+          "layer": "Bakground",
+          "name": "Clouds",
+          "persistentUuid": "9c80a3a0-c346-448a-9856-ce05d4a09241",
+          "width": 1248,
+          "x": -336,
+          "y": -208,
+          "zOrder": 32,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 1024,
+          "layer": "Bakground",
+          "name": "FarMountains",
+          "persistentUuid": "7779b742-e1db-46ea-ae04-c9a472ac3dfd",
+          "width": 1248,
+          "x": -336,
+          "y": -624,
+          "zOrder": 33,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 1024,
+          "layer": "Bakground",
+          "name": "Hills",
+          "persistentUuid": "67be9f3f-5f1c-47c3-9354-382477bb5aae",
+          "width": 1248,
+          "x": -336,
+          "y": -624,
+          "zOrder": 34,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 1024,
+          "layer": "Bakground",
+          "name": "NearMountains",
+          "persistentUuid": "a6f41bb4-ff88-4f01-8f9f-a4341cbf04ac",
+          "width": 1248,
+          "x": -336,
+          "y": -624,
+          "zOrder": 35,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Rex",
+          "persistentUuid": "b0b70da2-d70a-42c4-990d-7241cf733724",
+          "width": 0,
+          "x": 380,
+          "y": 240,
+          "zOrder": 36,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -1950,15 +2220,15 @@
               "PlatformerCharacter": "PlatformerObject"
             },
             {
-              "jumpSpeed": 300,
-              "maxFallingSpeed": 400,
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "gravity": 250,
+              "jumpSpeed": 300,
+              "maxFallingSpeed": 400,
               "acceleration": 300,
               "maxSpeed": 70,
               "canGoDownFromJumpthru": false,
               "deceleration": 500,
-              "gravity": 200,
               "jumpSustainTime": 0.4,
               "canGrabWithoutMoving": true,
               "canGrabPlatforms": false,
@@ -2027,12 +2297,12 @@
               "PlatformerCharacter": "PlatformerObject",
               "PlatformerConfigurationStack": "PlatformerConfigurationStack",
               "JumpTimeFrame": 0.125,
-              "WallJumpSpeedX": 250,
-              "WallJumpAccelerationX": 1500,
+              "WallJumpSpeedX": 100,
+              "WallJumpAccelerationX": 100,
               "SideSpeedSustainTime": 0.4,
               "WallSlidingGravity": 500,
-              "WallSlidingMaxFallingSpeed": 350,
-              "WallSlidingSpeedAbsorption": 350,
+              "WallSlidingMaxFallingSpeed": 100,
+              "WallSlidingSpeedAbsorption": 100,
               "WallSlidingFallingSpeedMin": 50,
               "AutomaticSliding": false,
               "PreviousX": 50,
@@ -3768,6 +4038,236 @@
                   ]
                 }
               ]
+            },
+            {
+              "name": "YoshiIdle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "RetroRerun assets\\PowerUps\\yoshi_ride_idle.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "YoshiWalking",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "RetroRerun assets\\PowerUps\\yoshi_ride_walk.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "RetroRerun assets\\PowerUps\\yoshi_ride_idle.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "YoshiFalling",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "RetroRerun assets\\PowerUps\\yoshi_ride_jump.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "YoshiJumping",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "RetroRerun assets\\PowerUps\\yoshi_ride_jump.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "YoshiEating",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "RetroRerun assets\\PowerUps\\yoshi_ride_eat.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "RetroRerun assets\\PowerUps\\yoshi_ride_eat1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "RetroRerun assets\\PowerUps\\yoshi_ride_eat2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "RetroRerun assets\\PowerUps\\yoshi_ride_eat3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "RetroRerun assets\\PowerUps\\yoshi_ride_eat4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -3790,7 +4290,8 @@
             {
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
-              "maxSpeed": 50,
+              "maxSpeed": 70,
+              "slopeMaxAngle": 60,
               "deceleration": 10000,
               "acceleration": 1500,
               "canGoDownFromJumpthru": true,
@@ -3802,7 +4303,6 @@
               "jumpSustainTime": 0.2,
               "ladderClimbingSpeed": 150,
               "maxFallingSpeed": 700,
-              "slopeMaxAngle": 60,
               "useLegacyTrajectory": false,
               "xGrabTolerance": 10,
               "yGrabOffset": 0
@@ -3877,7 +4377,7 @@
             {
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
-              "maxSpeed": 50,
+              "maxSpeed": 70,
               "deceleration": 10000,
               "gravity": 1000,
               "ignoreDefaultControls": true,
@@ -3998,6 +4498,164 @@
                         "name": "centre",
                         "x": 0,
                         "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Rex",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "folded": true,
+              "name": "State",
+              "type": "string",
+              "value": "Normal"
+            }
+          ],
+          "effects": [],
+          "behaviors": [
+            {
+              "acceleration": 1500,
+              "canGoDownFromJumpthru": true,
+              "canGrabPlatforms": false,
+              "canGrabWithoutMoving": true,
+              "deceleration": 10000,
+              "gravity": 1000,
+              "ignoreDefaultControls": true,
+              "jumpSpeed": 600,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 150,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 70,
+              "name": "PlatformerObject",
+              "slopeMaxAngle": 60,
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "useLegacyTrajectory": false,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "Walk",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.145,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite",
+                      "points": [
+                        {
+                          "name": "Dead",
+                          "x": 18,
+                          "y": 22
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 18,
+                        "y": 30
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite2",
+                      "points": [
+                        {
+                          "name": "Dead",
+                          "x": 18,
+                          "y": 22
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 18,
+                        "y": 30
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "RexStompedWalk",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.095,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "RexStompedWalk",
+                      "points": [
+                        {
+                          "name": "Dead",
+                          "x": 18,
+                          "y": 22
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 18,
+                        "y": 30
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "RexStompedWalk2",
+                      "points": [
+                        {
+                          "name": "Dead",
+                          "x": 18,
+                          "y": 22
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 18,
+                        "y": 30
                       },
                       "customCollisionMask": []
                     }
@@ -4210,6 +4868,68 @@
         },
         {
           "assetStoreId": "",
+          "name": "Yoshi",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "acceleration": 1500,
+              "canGoDownFromJumpthru": true,
+              "canGrabPlatforms": false,
+              "canGrabWithoutMoving": true,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": true,
+              "jumpSpeed": 400,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 150,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "slopeMaxAngle": 60,
+              "useLegacyTrajectory": false,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "Idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "RetroRerun assets\\PowerUps\\yoshi_idle.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
           "height": 32,
           "name": "Ground",
           "tags": "Tiles",
@@ -4275,26 +4995,6 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "height": 80,
-          "name": "HardBlock",
-          "tags": "",
-          "texture": "assets\\HARDblock.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 80,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "canBeGrabbed": false,
-              "platformType": "NormalPlatform",
-              "yGrabOffset": 0
             }
           ]
         },
@@ -4402,12 +5102,11 @@
               "directions": [
                 {
                   "looping": true,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.12,
+                  "timeBetweenFrames": 0.115,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "NewSprite11",
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Coin.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4420,30 +5119,11 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 15,
-                            "y": 10
-                          },
-                          {
-                            "x": 65,
-                            "y": 10
-                          },
-                          {
-                            "x": 65,
-                            "y": 80
-                          },
-                          {
-                            "x": 15,
-                            "y": 80
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "NewSprite12",
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Coin3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4456,30 +5136,11 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 15,
-                            "y": 10
-                          },
-                          {
-                            "x": 65,
-                            "y": 10
-                          },
-                          {
-                            "x": 65,
-                            "y": 80
-                          },
-                          {
-                            "x": 15,
-                            "y": 80
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "NewSprite13",
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Coin5.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4492,30 +5153,11 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 15,
-                            "y": 10
-                          },
-                          {
-                            "x": 65,
-                            "y": 10
-                          },
-                          {
-                            "x": 65,
-                            "y": 80
-                          },
-                          {
-                            "x": 15,
-                            "y": 80
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "NewSprite14",
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Coin7.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4528,30 +5170,11 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 15,
-                            "y": 10
-                          },
-                          {
-                            "x": 65,
-                            "y": 10
-                          },
-                          {
-                            "x": 65,
-                            "y": 80
-                          },
-                          {
-                            "x": 15,
-                            "y": 80
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "NewSprite15",
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Coin9.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4564,30 +5187,11 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 15,
-                            "y": 10
-                          },
-                          {
-                            "x": 65,
-                            "y": 10
-                          },
-                          {
-                            "x": 65,
-                            "y": 80
-                          },
-                          {
-                            "x": 15,
-                            "y": 80
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "NewSprite16",
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Coin11.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4600,30 +5204,11 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 15,
-                            "y": 10
-                          },
-                          {
-                            "x": 65,
-                            "y": 10
-                          },
-                          {
-                            "x": 65,
-                            "y": 80
-                          },
-                          {
-                            "x": 15,
-                            "y": 80
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "NewSprite17",
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Coin13.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4636,30 +5221,11 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 15,
-                            "y": 10
-                          },
-                          {
-                            "x": 65,
-                            "y": 10
-                          },
-                          {
-                            "x": 65,
-                            "y": 80
-                          },
-                          {
-                            "x": 15,
-                            "y": 80
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "NewSprite18",
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Coin15.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4672,26 +5238,88 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 15,
-                            "y": 10
-                          },
-                          {
-                            "x": 65,
-                            "y": 10
-                          },
-                          {
-                            "x": 65,
-                            "y": 80
-                          },
-                          {
-                            "x": 15,
-                            "y": 80
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "FX",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.135,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Coin17",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Coin18",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Coin19",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Coin20",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
                     }
                   ]
                 }
@@ -4799,10 +5427,10 @@
           "emitterAngleB": 0,
           "emitterForceMax": 0,
           "emitterForceMin": 0,
-          "flow": 0,
+          "flow": 1,
           "jumpForwardInTimeOnCreation": 0,
           "maxParticleNb": 300,
-          "name": "DeadMonty",
+          "name": "DeadRex",
           "particleAlpha1": 255,
           "particleAlpha2": 255,
           "particleAlphaRandomness1": 0,
@@ -4828,11 +5456,11 @@
           "rendererParam1": 3,
           "rendererParam2": 1,
           "rendererType": "Quad",
-          "tags": "",
+          "tags": "TechnicalStuff",
           "tank": 1,
-          "textureParticleName": "assets\\NewSprite9.png",
+          "textureParticleName": "DeadRex.png",
           "type": "ParticleSystem::ParticleEmitter",
-          "zoneRadius": 0,
+          "zoneRadius": 3,
           "variables": [],
           "effects": [],
           "behaviors": []
@@ -4888,7 +5516,7 @@
           "height": 80,
           "name": "NearMountains",
           "tags": "",
-          "texture": "RetroRerun assets\\Backgrounds\\Hills_front.png",
+          "texture": "RetroRerun assets\\Backgrounds\\Hills_front-export.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 80,
           "variables": [],
@@ -4900,7 +5528,7 @@
           "height": 512,
           "name": "Hills",
           "tags": "",
-          "texture": "RetroRerun assets\\Backgrounds\\Mountains.png",
+          "texture": "RetroRerun assets\\Backgrounds\\Mountains-export.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 512,
           "variables": [],
@@ -4912,7 +5540,7 @@
           "height": 512,
           "name": "FarMountains",
           "tags": "",
-          "texture": "RetroRerun assets\\Backgrounds\\Hills_Back.png",
+          "texture": "RetroRerun assets\\Backgrounds\\Hills_Back-export.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 512,
           "variables": [],
@@ -4924,7 +5552,7 @@
           "height": 512,
           "name": "Clouds",
           "tags": "",
-          "texture": "RetroRerun assets\\Backgrounds\\SkyClouds.png",
+          "texture": "RetroRerun assets\\Backgrounds\\SkyClouds-export.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 512,
           "variables": [],
@@ -4936,7 +5564,7 @@
           "height": 80,
           "name": "SkyBox",
           "tags": "",
-          "texture": "RetroRerun assets\\Backgrounds\\Sky.png",
+          "texture": "RetroRerun assets\\Backgrounds\\Sky-export.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 80,
           "variables": [],
@@ -5026,292 +5654,6 @@
               ]
             }
           ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "CoinCounterLogo",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "coins",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "coin counter-export.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "CoinCounter",
-          "tags": "",
-          "type": "BitmapText::BitmapTextObject",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "text": "00",
-            "opacity": 255,
-            "scale": 0.9,
-            "fontSize": 20,
-            "tint": "255;255;255",
-            "bitmapFontResourceName": "Mario.xml",
-            "textureAtlasResourceName": "Mario.png2",
-            "align": "left",
-            "wordWrap": true
-          }
-        },
-        {
-          "assetStoreId": "",
-          "name": "X",
-          "tags": "",
-          "type": "BitmapText::BitmapTextObject",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "text": "X",
-            "opacity": 255,
-            "scale": 0.8,
-            "fontSize": 20,
-            "tint": "255;255;255",
-            "bitmapFontResourceName": "Mario.xml",
-            "textureAtlasResourceName": "Mario.png",
-            "align": "left",
-            "wordWrap": true
-          }
-        },
-        {
-          "assetStoreId": "",
-          "name": "LifeCounterText",
-          "tags": "",
-          "type": "BitmapText::BitmapTextObject",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "text": "0",
-            "opacity": 255,
-            "scale": 0.9,
-            "fontSize": 20,
-            "tint": "255;255;255",
-            "bitmapFontResourceName": "Mario.xml",
-            "textureAtlasResourceName": "Mario.png",
-            "align": "left",
-            "wordWrap": true
-          }
-        },
-        {
-          "assetStoreId": "",
-          "name": "lifecounter",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "MarioLogo-export.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "height": 80,
-          "name": "Stairs",
-          "tags": "",
-          "texture": "assets\\NewSprite2.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 80,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "canBeGrabbed": true,
-              "platformType": "Ladder",
-              "yGrabOffset": 0
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "VinesTop",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "canBeGrabbed": true,
-              "platformType": "Ladder",
-              "yGrabOffset": 0
-            }
-          ],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\NewSprite.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "Greenshroom",
-          "tags": "Items",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [
-            {
-              "folded": true,
-              "name": "Right",
-              "type": "boolean",
-              "value": false
-            },
-            {
-              "folded": true,
-              "name": "Left",
-              "type": "boolean",
-              "value": true
-            }
-          ],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "PlatformerObject",
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
-              "acceleration": 1500,
-              "canGoDownFromJumpthru": true,
-              "canGrabPlatforms": false,
-              "canGrabWithoutMoving": false,
-              "deceleration": 10000,
-              "gravity": 1000,
-              "ignoreDefaultControls": true,
-              "jumpSpeed": 600,
-              "jumpSustainTime": 0.2,
-              "ladderClimbingSpeed": 150,
-              "maxFallingSpeed": 900,
-              "maxSpeed": 250,
-              "slopeMaxAngle": 60,
-              "useLegacyTrajectory": false,
-              "xGrabTolerance": 10,
-              "yGrabOffset": 0
-            }
-          ],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "1-UP-export.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
         }
       ],
       "events": [
@@ -5320,6 +5662,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Players",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -5329,6 +5672,7 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
+              "folded": true,
               "name": "Mario",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -5350,30 +5694,67 @@
                       ]
                     }
                   ],
-                  "actions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Coin",
+                        "\"FX\""
+                      ]
+                    }
+                  ],
                   "events": [
                     {
                       "type": "BuiltinCommonInstructions::ForEach",
                       "object": "Coin",
-                      "conditions": [],
-                      "actions": [
+                      "conditions": [
                         {
                           "type": {
-                            "value": "ModVarGlobal"
-                          },
-                          "parameters": [
-                            "Counter",
-                            "+",
-                            "01"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Delete"
+                            "value": "AnimationName"
                           },
                           "parameters": [
                             "Coin",
-                            ""
+                            "\"FX\""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            "0.50"
+                          ]
+                        }
+                      ],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::ForEach",
+                          "object": "Coin",
+                          "conditions": [],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "ModVarGlobal"
+                              },
+                              "parameters": [
+                                "Counter",
+                                "+",
+                                "01"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Delete"
+                              },
+                              "parameters": [
+                                "Coin",
+                                ""
+                              ]
+                            }
                           ]
                         }
                       ]
@@ -5818,32 +6199,6 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "AdvancedJump::WallJump::IsAgaintWall"
-                      },
-                      "parameters": [
-                        "Mario",
-                        "WallJump",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetAnimationName"
-                      },
-                      "parameters": [
-                        "Mario",
-                        "\"Turning\""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
                         "value": "PlatformBehavior::IsFalling"
                       },
                       "parameters": [
@@ -6146,6 +6501,16 @@
                         "Mario",
                         "PlatformerObject"
                       ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Mario",
+                        "\"YoshiEating\""
+                      ]
                     }
                   ],
                   "actions": [
@@ -6200,6 +6565,16 @@
                         "Mario",
                         "PlatformerObject"
                       ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Mario",
+                        "\"YoshiEating\""
+                      ]
                     }
                   ],
                   "actions": [
@@ -6243,7 +6618,302 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
-                  "folded": true,
+                  "name": "Rex",
+                  "source": "",
+                  "type": "BuiltinCommonInstructions::Group",
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "inverted": true,
+                            "value": "FlippedX"
+                          },
+                          "parameters": [
+                            "Rex"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::SimulateRightKey"
+                          },
+                          "parameters": [
+                            "Rex",
+                            "PlatformerObject"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "FlippedX"
+                          },
+                          "parameters": [
+                            "Rex"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::SimulateLeftKey"
+                          },
+                          "parameters": [
+                            "Rex",
+                            "PlatformerObject"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "Rex",
+                            "goright",
+                            "",
+                            "",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "FlipX"
+                          },
+                          "parameters": [
+                            "Rex",
+                            "no"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "Rex",
+                            "goleft",
+                            "",
+                            "",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "FlipX"
+                          },
+                          "parameters": [
+                            "Rex",
+                            "yes"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "Mario",
+                            "Rex",
+                            "",
+                            "",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "VarObjetTxt"
+                          },
+                          "parameters": [
+                            "Rex",
+                            "State",
+                            "=",
+                            "\"Normal\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::IsFalling"
+                          },
+                          "parameters": [
+                            "Mario",
+                            "PlatformerObject"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ModVarObjetTxt"
+                          },
+                          "parameters": [
+                            "Rex",
+                            "State",
+                            "=",
+                            "\"Stomped\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Bounce::BounceFunction"
+                          },
+                          "parameters": [
+                            "",
+                            "Mario",
+                            "PlatformerObject",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ResetObjectTimer"
+                          },
+                          "parameters": [
+                            "Rex",
+                            "\"Delay\""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "VarObjetTxt"
+                          },
+                          "parameters": [
+                            "Rex",
+                            "State",
+                            "=",
+                            "\"Stomped\""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::MaxSpeed"
+                          },
+                          "parameters": [
+                            "Rex",
+                            "PlatformerObject",
+                            "=",
+                            "120"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetAnimationName"
+                          },
+                          "parameters": [
+                            "Rex",
+                            "\"RexStompedWalk\""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "Mario",
+                            "Rex",
+                            "",
+                            "",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "VarObjetTxt"
+                          },
+                          "parameters": [
+                            "Rex",
+                            "State",
+                            "=",
+                            "\"Stomped\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::IsFalling"
+                          },
+                          "parameters": [
+                            "Mario",
+                            "PlatformerObject"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "CompareObjectTimer"
+                          },
+                          "parameters": [
+                            "Rex",
+                            "\"Delay\"",
+                            ">",
+                            "0.3"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "Rex",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Create"
+                          },
+                          "parameters": [
+                            "",
+                            "DeadRex",
+                            "Rex.PointX(\"Dead\")",
+                            "Rex.PointY(\"Dead\")",
+                            ""
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "parameters": []
+                },
+                {
+                  "colorB": 228,
+                  "colorG": 176,
+                  "colorR": 74,
+                  "creationTime": 0,
                   "name": "Goomba",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -6257,16 +6927,6 @@
                           },
                           "parameters": [
                             "Goomba"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "ObjectVariableAsBoolean"
-                          },
-                          "parameters": [
-                            "Goomba",
-                            "dead",
-                            ""
                           ]
                         }
                       ],
@@ -6292,16 +6952,6 @@
                           },
                           "parameters": [
                             "Goomba"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "ObjectVariableAsBoolean"
-                          },
-                          "parameters": [
-                            "Goomba",
-                            "dead",
-                            ""
                           ]
                         }
                       ],
@@ -6392,6 +7042,7 @@
                       "actions": [],
                       "events": [
                         {
+                          "folded": true,
                           "type": "BuiltinCommonInstructions::Standard",
                           "conditions": [
                             {
@@ -6405,24 +7056,6 @@
                             }
                           ],
                           "actions": [
-                            {
-                              "type": {
-                                "value": "SetObjectVariableAsBoolean"
-                              },
-                              "parameters": [
-                                "Goomba",
-                                "dead",
-                                "True"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "Arreter"
-                              },
-                              "parameters": [
-                                "Goomba"
-                              ]
-                            },
                             {
                               "type": {
                                 "value": "Delete"
@@ -6448,7 +7081,19 @@
                           "events": [
                             {
                               "type": "BuiltinCommonInstructions::Standard",
-                              "conditions": [],
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "inverted": true,
+                                    "value": "AdvancedJump::DiveDash::IsDiving"
+                                  },
+                                  "parameters": [
+                                    "Mario",
+                                    "DiveDash",
+                                    ""
+                                  ]
+                                }
+                              ],
                               "actions": [
                                 {
                                   "type": {
@@ -6475,7 +7120,6 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
-                  "folded": true,
                   "name": "Koopa Troopa",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -7127,25 +7771,258 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
+          "name": "yoshman",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Mario",
+                    "Yoshi",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsFalling"
+                  },
+                  "parameters": [
+                    "Mario",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Yoshi",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarObjetTxt"
+                  },
+                  "parameters": [
+                    "Mario",
+                    "state",
+                    "=",
+                    "\"Yoshi\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarObjetTxt"
+                  },
+                  "parameters": [
+                    "Mario",
+                    "state",
+                    "=",
+                    "\"Yoshi\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "Mario",
+                    "q"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarObjetTxt"
+                  },
+                  "parameters": [
+                    "Mario",
+                    "state",
+                    "=",
+                    "\"\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "Yoshi",
+                    "Mario.X()",
+                    "Mario.Y()",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarObjetTxt"
+                  },
+                  "parameters": [
+                    "Mario",
+                    "state",
+                    "=",
+                    "\"Yoshi\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "x"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsOnFloor"
+                  },
+                  "parameters": [
+                    "Mario",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+                  },
+                  "parameters": [
+                    "Mario",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Mario",
+                    "\"YoshiEating\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimationEnded2"
+                  },
+                  "parameters": [
+                    "Mario"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "Mario",
+                    "\"YoshiEating\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.34"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Mario",
+                    "\"YoshiIdle\""
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
           "name": "TechnicalStuff",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
             {
               "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
+              "conditions": [
+                {
+                  "type": {
+                    "value": "DepartScene"
+                  },
+                  "parameters": [
+                    ""
+                  ]
+                }
+              ],
               "actions": [
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "ModVarObjetTxt"
                   },
                   "parameters": [
-                    "CoinCounter",
+                    "Mario",
+                    "dirForKoopa",
                     "=",
-                    "ToString(GlobalVariable(Counter))"
+                    "\"\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarObjetTxt"
+                  },
+                  "parameters": [
+                    "Mario",
+                    "state",
+                    "=",
+                    "\"\""
                   ]
                 }
               ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": []
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -7168,18 +8045,6 @@
                   ]
                 }
               ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::ForEach",
-              "object": "Brick",
-              "conditions": [],
-              "actions": []
-            },
-            {
-              "type": "BuiltinCommonInstructions::ForEach",
-              "object": "QMBlock",
-              "conditions": [],
-              "actions": []
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -7229,56 +8094,6 @@
             }
           ],
           "parameters": []
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "DepartScene"
-              },
-              "parameters": [
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ModVarObjetTxt"
-              },
-              "parameters": [
-                "Mario",
-                "dirForKoopa",
-                "=",
-                "\"\""
-              ]
-            },
-            {
-              "type": {
-                "value": "PlayMusicCanal"
-              },
-              "parameters": [
-                "",
-                "RetroRerun assets\\Music\\menu_theme.mp3",
-                "1",
-                "yes",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "ModVarObjetTxt"
-              },
-              "parameters": [
-                "Mario",
-                "state",
-                "=",
-                "\"\""
-              ]
-            }
-          ]
         }
       ],
       "layers": [
