@@ -2053,6 +2053,15 @@
         "name": "assets\\Bill3.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bill5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Bill5.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -2094,7 +2103,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 2.060679135269633,
+        "zoomFactor": 2.514367296498898,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -2162,14 +2171,14 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 224,
           "layer": "",
           "name": "goright",
           "persistentUuid": "aa8a8945-413b-4d5f-a1c5-6a5c2fbbb804",
-          "width": 0,
+          "width": 64,
           "x": -400,
-          "y": 240,
+          "y": 80,
           "zOrder": 21,
           "numberProperties": [],
           "stringProperties": [],
@@ -2177,14 +2186,14 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 224,
           "layer": "",
           "name": "goleft",
           "persistentUuid": "7da7d9d6-379c-43ba-bea7-73d8cb9cefcd",
-          "width": 0,
+          "width": 64,
           "x": 912,
-          "y": 240,
+          "y": 80,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
@@ -2283,13 +2292,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 608,
+          "height": 592,
           "layer": "Bakground",
           "name": "SkyBox",
           "persistentUuid": "994bf287-a031-45b4-8dd9-559fbcea3203",
-          "width": 1248,
-          "x": -336,
-          "y": -208,
+          "width": 640,
+          "x": 0,
+          "y": -192,
           "zOrder": 31,
           "numberProperties": [],
           "stringProperties": [],
@@ -2298,13 +2307,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 512,
+          "height": 496,
           "layer": "Bakground",
           "name": "Clouds",
           "persistentUuid": "9c80a3a0-c346-448a-9856-ce05d4a09241",
-          "width": 1248,
-          "x": -336,
-          "y": -208,
+          "width": 640,
+          "x": 0,
+          "y": -192,
           "zOrder": 32,
           "numberProperties": [],
           "stringProperties": [],
@@ -2317,8 +2326,8 @@
           "layer": "Bakground",
           "name": "FarMountains",
           "persistentUuid": "7779b742-e1db-46ea-ae04-c9a472ac3dfd",
-          "width": 1248,
-          "x": -336,
+          "width": 640,
+          "x": 0,
           "y": -624,
           "zOrder": 33,
           "numberProperties": [],
@@ -2328,13 +2337,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 1024,
+          "height": 992,
           "layer": "Bakground",
           "name": "Hills",
           "persistentUuid": "67be9f3f-5f1c-47c3-9354-382477bb5aae",
-          "width": 1248,
-          "x": -336,
-          "y": -624,
+          "width": 640,
+          "x": 0,
+          "y": -592,
           "zOrder": 34,
           "numberProperties": [],
           "stringProperties": [],
@@ -2347,8 +2356,8 @@
           "layer": "Bakground",
           "name": "NearMountains",
           "persistentUuid": "a6f41bb4-ff88-4f01-8f9f-a4341cbf04ac",
-          "width": 1248,
-          "x": -336,
+          "width": 640,
+          "x": 0,
           "y": -624,
           "zOrder": 35,
           "numberProperties": [],
@@ -2379,7 +2388,7 @@
           "persistentUuid": "f9b48428-3f96-4821-b30e-a271d10ff576",
           "width": 52,
           "x": 614,
-          "y": 206,
+          "y": 190,
           "zOrder": 40,
           "numberProperties": [],
           "stringProperties": [],
@@ -2394,7 +2403,7 @@
           "persistentUuid": "8455d488-0d7b-4eaf-a61d-488831c5df6f",
           "width": 32,
           "x": 624,
-          "y": 240,
+          "y": 224,
           "zOrder": 41,
           "numberProperties": [],
           "stringProperties": [],
@@ -2403,14 +2412,74 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 32,
+          "height": 48,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "14621390-2700-4e3b-97ac-6420f8cbc04f",
           "width": 32,
           "x": 624,
-          "y": 272,
+          "y": 256,
           "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 80,
+          "layer": "",
+          "name": "goleft",
+          "persistentUuid": "1cd5bc23-40d4-4b0f-90a7-1cc13ef8240c",
+          "width": 16,
+          "x": 624,
+          "y": 224,
+          "zOrder": 43,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "goright",
+          "persistentUuid": "21ac8151-2d3f-4c46-a65f-9d9846a6e994",
+          "width": 16,
+          "x": 640,
+          "y": 240,
+          "zOrder": 44,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 36,
+          "layer": "",
+          "name": "goright",
+          "persistentUuid": "a6c1cc1e-ac3c-4d70-9a86-abe4549207f7",
+          "width": 16,
+          "x": 650,
+          "y": 190,
+          "zOrder": 45,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 36,
+          "layer": "",
+          "name": "goleft",
+          "persistentUuid": "5df347aa-2926-4c86-be85-4cd62e6c853d",
+          "width": 16,
+          "x": 614,
+          "y": 190,
+          "zOrder": 46,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2471,12 +2540,12 @@
               "PlatformerCharacter": "PlatformerObject"
             },
             {
-              "gravity": 500,
-              "jumpSpeed": 400,
-              "jumpSustainTime": 0.5,
-              "maxFallingSpeed": 600,
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "gravity": 500,
+              "jumpSpeed": 400,
+              "maxFallingSpeed": 700,
+              "jumpSustainTime": 0.5,
               "acceleration": 300,
               "maxSpeed": 70,
               "canGoDownFromJumpthru": false,
@@ -2493,12 +2562,12 @@
             {
               "name": "SmoothCamera",
               "type": "SmoothCamera::SmoothCamera",
-              "LeftwardSpeed": 0.9,
-              "RightwardSpeed": 0.9,
-              "UpwardSpeed": 0.9,
-              "DownwardSpeed": 0.9,
+              "LeftwardSpeed": 0.1,
+              "RightwardSpeed": 0.1,
+              "UpwardSpeed": 0.1,
+              "DownwardSpeed": 0.1,
               "FollowOnX": true,
-              "FollowOnY": false,
+              "FollowOnY": true,
               "FollowFreeAreaLeft": 0,
               "FollowFreeAreaRight": 0,
               "FollowFreeAreaTop": 0,
@@ -5763,6 +5832,52 @@
           "behaviors": []
         },
         {
+          "additive": false,
+          "assetStoreId": "",
+          "destroyWhenNoParticles": true,
+          "emitterAngleA": 0,
+          "emitterAngleB": 90,
+          "emitterForceMax": 85,
+          "emitterForceMin": 45,
+          "flow": 45,
+          "jumpForwardInTimeOnCreation": 0,
+          "maxParticleNb": 300,
+          "name": "BulletBillDead",
+          "particleAlpha1": 255,
+          "particleAlpha2": 255,
+          "particleAlphaRandomness1": 0,
+          "particleAlphaRandomness2": 0,
+          "particleAngle1": 500,
+          "particleAngle2": 500,
+          "particleAngleRandomness1": 0,
+          "particleAngleRandomness2": 0,
+          "particleBlue1": 255,
+          "particleBlue2": 255,
+          "particleGravityX": 0,
+          "particleGravityY": 700,
+          "particleGreen1": 255,
+          "particleGreen2": 255,
+          "particleLifeTimeMax": 2.5,
+          "particleLifeTimeMin": 2.5,
+          "particleRed1": 255,
+          "particleRed2": 255,
+          "particleSize1": 100,
+          "particleSize2": 100,
+          "particleSizeRandomness1": 0,
+          "particleSizeRandomness2": 0,
+          "rendererParam1": 3,
+          "rendererParam2": 1,
+          "rendererType": "Quad",
+          "tags": "",
+          "tank": 1,
+          "textureParticleName": "assets\\Bill5.png",
+          "type": "ParticleSystem::ParticleEmitter",
+          "zoneRadius": 3,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
           "assetStoreId": "",
           "height": 80,
           "name": "NearMountains",
@@ -6021,7 +6136,28 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "gravity": 400,
+              "jumpSpeed": 200,
+              "maxSpeed": 130,
+              "acceleration": 1500,
+              "canGoDownFromJumpthru": true,
+              "canGrabPlatforms": false,
+              "canGrabWithoutMoving": true,
+              "deceleration": 1500,
+              "ignoreDefaultControls": true,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 150,
+              "maxFallingSpeed": 700,
+              "slopeMaxAngle": 60,
+              "useLegacyTrajectory": false,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
           "animations": [
             {
               "name": "",
@@ -6218,6 +6354,7 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
+              "folded": true,
               "name": "Mario",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -6812,7 +6949,7 @@
                         "Mario",
                         "PlatformerObject",
                         "=",
-                        "300"
+                        "400"
                       ]
                     }
                   ]
@@ -6928,31 +7065,6 @@
                       "parameters": [
                         "Mario",
                         "no"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyReleased"
-                      },
-                      "parameters": [
-                        "",
-                        "Space"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::PlatformerObjectBehavior::AbortJump"
-                      },
-                      "parameters": [
-                        "Mario",
-                        "PlatformerObject"
                       ]
                     }
                   ]
@@ -7214,7 +7326,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Enemies",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -7224,7 +7335,6 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "folded": true,
               "name": "Basic Enemies",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -7531,7 +7641,6 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
-                  "folded": true,
                   "name": "Goomba",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -8356,47 +8465,119 @@
                     }
                   ],
                   "parameters": []
+                },
+                {
+                  "colorB": 228,
+                  "colorG": 176,
+                  "colorR": 74,
+                  "creationTime": 0,
+                  "name": "BulletBill",
+                  "source": "",
+                  "type": "BuiltinCommonInstructions::Group",
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ObjectSpawner::ObjectSpawner::SpawnObject"
+                          },
+                          "parameters": [
+                            "BillCannon",
+                            "ObjectSpawner",
+                            "Bill",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ChangePlan"
+                          },
+                          "parameters": [
+                            "Bill",
+                            "=",
+                            "39"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ObjectSpawner::ObjectSpawner::SetOffsetY"
+                          },
+                          "parameters": [
+                            "BillCannon",
+                            "ObjectSpawner",
+                            "2",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "Mario",
+                            "Bill",
+                            "",
+                            "",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::IsFalling"
+                          },
+                          "parameters": [
+                            "Mario",
+                            "PlatformerObject"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "Bill",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Create"
+                          },
+                          "parameters": [
+                            "",
+                            "BulletBillDead",
+                            "Bill.X()",
+                            "Bill.Y()",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Bounce::BounceFunction"
+                          },
+                          "parameters": [
+                            "",
+                            "Mario",
+                            "PlatformerObject",
+                            ""
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "parameters": []
                 }
               ],
               "parameters": []
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "value": "ObjectSpawner::ObjectSpawner::SpawnObject"
-                  },
-                  "parameters": [
-                    "BillCannon",
-                    "ObjectSpawner",
-                    "Bill",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ChangePlan"
-                  },
-                  "parameters": [
-                    "Bill",
-                    "=",
-                    "39"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ObjectSpawner::ObjectSpawner::SetOffsetY"
-                  },
-                  "parameters": [
-                    "BillCannon",
-                    "ObjectSpawner",
-                    "2",
-                    ""
-                  ]
-                }
-              ]
             }
           ],
           "parameters": []
@@ -8406,11 +8587,205 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Items",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "Star",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Mario",
+                        "Star",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "Star",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetObjectVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "Mario",
+                        "starMode",
+                        "True"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "ObjectVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "Mario",
+                        "starMode",
+                        "True"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "Mario",
+                        "starTimer",
+                        "+",
+                        "0.1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimationSystem::AnimationBehavior::AnimationSystem"
+                      },
+                      "parameters": [
+                        "Mario",
+                        "AnimationBehavior",
+                        "\"Rainbow effect\"",
+                        "1",
+                        "",
+                        "",
+                        "no",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "VarObjet"
+                      },
+                      "parameters": [
+                        "Mario",
+                        "starTimer",
+                        ">=",
+                        "300"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "Mario",
+                        "starTimer",
+                        "=",
+                        "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetObjectVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "Mario",
+                        "starMode",
+                        "False"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ChangeColor"
+                      },
+                      "parameters": [
+                        "Mario",
+                        "\"255;255;255\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": []
+                }
+              ],
+              "parameters": []
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "FlippedX"
+                  },
+                  "parameters": [
+                    "Star"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::SimulateRightKey"
+                  },
+                  "parameters": [
+                    "Star",
+                    "PlatformerObject"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "FlippedX"
+                  },
+                  "parameters": [
+                    "Star"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::SimulateLeftKey"
+                  },
+                  "parameters": [
+                    "Star",
+                    "PlatformerObject"
+                  ]
+                }
+              ]
+            },
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
@@ -8419,8 +8794,8 @@
                     "value": "CollisionNP"
                   },
                   "parameters": [
-                    "Mario",
                     "Star",
+                    "goright",
                     "",
                     "",
                     ""
@@ -8430,21 +8805,11 @@
               "actions": [
                 {
                   "type": {
-                    "value": "Delete"
+                    "value": "FlipX"
                   },
                   "parameters": [
                     "Star",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetObjectVariableAsBoolean"
-                  },
-                  "parameters": [
-                    "Mario",
-                    "starMode",
-                    "True"
+                    "yes"
                   ]
                 }
               ]
@@ -8454,40 +8819,25 @@
               "conditions": [
                 {
                   "type": {
-                    "value": "ObjectVariableAsBoolean"
+                    "value": "CollisionNP"
                   },
                   "parameters": [
-                    "Mario",
-                    "starMode",
-                    "True"
+                    "Star",
+                    "goleft",
+                    "",
+                    "",
+                    ""
                   ]
                 }
               ],
               "actions": [
                 {
                   "type": {
-                    "value": "ModVarObjet"
+                    "value": "FlipX"
                   },
                   "parameters": [
-                    "Mario",
-                    "starTimer",
-                    "+",
-                    "0.1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimationSystem::AnimationBehavior::AnimationSystem"
-                  },
-                  "parameters": [
-                    "Mario",
-                    "AnimationBehavior",
-                    "\"Rainbow effect\"",
-                    "1",
-                    "",
-                    "",
-                    "no",
-                    ""
+                    "Star",
+                    "no"
                   ]
                 }
               ]
@@ -8497,45 +8847,22 @@
               "conditions": [
                 {
                   "type": {
-                    "value": "VarObjet"
+                    "value": "PlatformBehavior::IsOnFloor"
                   },
                   "parameters": [
-                    "Mario",
-                    "starTimer",
-                    ">=",
-                    "300"
+                    "Star",
+                    "PlatformerObject"
                   ]
                 }
               ],
               "actions": [
                 {
                   "type": {
-                    "value": "ModVarObjet"
+                    "value": "PlatformBehavior::SimulateJumpKey"
                   },
                   "parameters": [
-                    "Mario",
-                    "starTimer",
-                    "=",
-                    "0"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetObjectVariableAsBoolean"
-                  },
-                  "parameters": [
-                    "Mario",
-                    "starMode",
-                    "False"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ChangeColor"
-                  },
-                  "parameters": [
-                    "Mario",
-                    "\"255;255;255\""
+                    "Star",
+                    "PlatformerObject"
                   ]
                 }
               ]
@@ -8766,7 +9093,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "TechnicalStuff",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -8872,6 +9198,46 @@
                     "Clouds",
                     "=",
                     "CameraCenterX()/9"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TiledSpriteObject::YOffset"
+                  },
+                  "parameters": [
+                    "NearMountains",
+                    "=",
+                    "CameraCenterY()/3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TiledSpriteObject::YOffset"
+                  },
+                  "parameters": [
+                    "Hills",
+                    "=",
+                    "CameraCenterY()/5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TiledSpriteObject::YOffset"
+                  },
+                  "parameters": [
+                    "FarMountains",
+                    "=",
+                    "CameraCenterY()/7"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TiledSpriteObject::YOffset"
+                  },
+                  "parameters": [
+                    "Clouds",
+                    "=",
+                    "CameraCenterY()/9"
                   ]
                 }
               ]
